@@ -17,8 +17,8 @@
 * Er.Ravinder Garg (Chief Engineer, Municipal Corporation, Ludhiana).
 Er. Rakesh Kumar – ADC Ludhiana He was also GNDEC Alumnus, Batch 1991.He shared their college experiences and gave us tips for achieving success in the future.
 * Also , In the induction program a loan officer is there and he  also gave a speech about the student loan scheme.He explained how students can get a loan with interest and return it after their graduation is completed.
-* After this, the program ended for the day.Then teachers of computer science department shows us the classrooms and labs of the department. Mrs kiran joyti mam( HOD of cse department) give us brief information about programming.
-  * This is how my Day 1 of Induction went.
+* After this, the program ended for the day. Then, the teachers of the Computer Science department showed us the classrooms and labs of the department. Mrs. Kiran Joyti Ma'am (HOD of the CSE department) gave us brief information about programming.
+* This is how my Day 1 of the Induction went.
 
 
 
