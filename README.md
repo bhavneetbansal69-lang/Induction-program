@@ -21,6 +21,7 @@ Er. Rakesh Kumar – ADC Ludhiana He was also GNDEC Alumnus, Batch 1991.He share
 * This is how my Day 1 of the Induction went.
 ## Day 2 
 * The Day 2 of the induction began with a Proficiency English Test. The test included questions based on topics we had already studied in our previous school classes. After the English test, there was also a Mathematics Proficiency Test, which also covered concepts we had learned earlier. However, some questions were quite difficult, but I tried my best to find the answers.
-
+* After the proficiency tests, there was a one-hour break. Following the break, all the students of IT and CSE gathered in the auditorium. A lecture was conducted on a scholarship program provided by Buddy4Study, named the Satya Scholarship Program 2025. The representatives of this scholarship program gave us a brief overview and assured us that 50 students from our college would be selected for the scholarship. This program is really helpful for those who are unable to pay their fees. It is a very useful opportunity for all the students.
+* 
 
 
