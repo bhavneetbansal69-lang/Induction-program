@@ -19,7 +19,8 @@ Er. Rakesh Kumar – ADC Ludhiana He was also GNDEC Alumnus, Batch 1991.He share
 * Also , In the induction program a loan officer is there and he  also gave a speech about the student loan scheme.He explained how students can get a loan with interest and return it after their graduation is completed.
 * After this, the program ended for the day. Then, the teachers of the Computer Science department showed us the classrooms and labs of the department. Mrs. Kiran Joyti Ma'am (HOD of the CSE department) gave us brief information about programming.
 * This is how my Day 1 of the Induction went.
-
+## Day 2 
+* The Day 2 of the induction began with a Proficiency English Test. The test included questions based on topics we had already studied in our previous school classes. After the English test, there was also a Mathematics Proficiency Test, which also covered concepts we had learned earlier. However, some questions were quite difficult, but I tried my best to find the answers.
 
 
 
