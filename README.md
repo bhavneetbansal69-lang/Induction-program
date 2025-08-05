@@ -33,7 +33,8 @@ He highlighted how a balanced and nutritious diet not only supports physical hea
 ## Day 3 
 * Day 3 of our induction program began with a very interesting and inspiring expert lecture by Dr. Jaswinder Singh, who is the retired incharge of IAPT (Indian Association of Physics Teachers). He delivered a unique session that beautifully connected Physics, Mathematics, and spiritual values. As a first-year student, I found this lecture very engaging and full of learning.
 Sir explained various concepts of physics and maths through simple and fun tricks and experiments which made learning more enjoyable and easier to understand. It was not just about formulas or theories – he showed us how these subjects are actually connected to our daily lives. The best part was how he also connected the teachings of Gurbani with scientific knowledge, which gave us a new perspective on life, values, and learning.
-Dr. Jaswinder Singh’s way of teaching was very motivating. He encouraged us to think logically, stay curious, and always look for answers. His energy and passion made the lecture more enjoyable. I truly liked and enjoyed his session
-* The Chief Guest, S. Gurcharan Singh Grewal, Secretary of SGPC, also motivated us with his inspiring speech. He appreciated Dr. Jaswinder Singh for performing his duties so well and thanked him for his valuable contribution.
-* 
+Dr. Jaswinder Singh’s way of teaching was very motivating. He encouraged us to think logically, stay curious, and always look for answers. His energy and passion made the lecture more enjoyable. I truly liked and enjoyed his session.
+  
+* The Chief Guest, S. Gurcharan Singh Grewal, Secretary of SGPC, also motivated us with his inspiring speech. He appreciated Dr. Jaswinder Singh for his valuable contribution in spreading scientific knowledge through engaging experiments and linking it with spiritual values. He also thanked him for fulfilling his responsibilities so well.
+
 
