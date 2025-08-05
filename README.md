@@ -26,5 +26,10 @@
 He highlighted how a balanced and nutritious diet not only supports physical health but also enhances mental focus, emotional stability, and academic performance. The session emphasized the importance of including fresh fruits, vegetables, whole grains, and adequate hydration in daily meals. Sir also encouraged students to avoid junk food and adopt mindful eating habits to maintain long-term wellness. 
 * After the above lecture, our seniors introduced us about the GitHub app. With their guidance, we created our GitHub accounts and made our first repository.
  They also explained that GitHub is very useful for students like us, especially in coding and teamwork. It helps us save our code safely, track changes, and work together on projects. It’s also good for building our profile, which can help us later in internships or placements. I really found it interesting because it was my first time using such a platform or coding app.
-  
+ ## Reflections 
+ * Overall, I really enjoyed Day 2 of the induction program and learned many new things. As a first-year student, everything feels new and exciting to me. Today’s sessions helped me understand how many opportunities and resources are available in our college. The scholarship session gave hope to students who need financial support, and I found it really inspiring. The expert talk on food and wellness made me realize how important it is to take care of our health, especially when we are starting a new phase of life. I will definitely try to eat healthier from now on.
+* The GitHub session was also very interesting. I had never used GitHub before, but with the help of our seniors, I created my account and made my first repository. It made me feel like I’ve taken my first small step into the world of coding and development. I was nervous at first, but now I feel more confident and motivated.
+* I’m really thankful to the college, teachers, and seniors for putting so much effort into making us feel comfortable and helping us learn from the very beginning. I feel proud to be a part of this college, and I’m looking forward to the upcoming days of the induction program with great excitement.
+
+
 
