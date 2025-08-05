@@ -24,5 +24,7 @@ Er. Rakesh Kumar – ADC Ludhiana He was also GNDEC Alumnus, Batch 1991.He share
 * After the proficiency tests, there was a one-hour break. Following the break, all the students of IT and CSE gathered in the auditorium. A lecture was conducted on a scholarship program provided by Buddy4Study, named the Satya Scholarship Program 2025. The representatives of this scholarship program gave us a brief overview and assured us that 50 students from our college would be selected for the scholarship. This program is really helpful for those who are unable to pay their fees. 
 * Then there was an expert lecture by Dr. Arashdeep Singh on "Food: A Pivotal Role in Students' Overall Wellness."
 He highlighted how a balanced and nutritious diet not only supports physical health but also enhances mental focus, emotional stability, and academic performance. The session emphasized the importance of including fresh fruits, vegetables, whole grains, and adequate hydration in daily meals. Sir also encouraged students to avoid junk food and adopt mindful eating habits to maintain long-term wellness. 
-
+* After the above lecture, our seniors introduced us about the GitHub app. With their guidance, we created our GitHub accounts and made our first repository.
+ They also explained that GitHub is very useful for students like us, especially in coding and teamwork. It helps us save our code safely, track changes, and work together on projects. It’s also good for building our profile, which can help us later in internships or placements. I really found it interesting because it was my first time using such a platform or coding app.
+  
 
