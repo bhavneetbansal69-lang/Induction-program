@@ -13,9 +13,9 @@
 * Then the host invited the first speaker, Dr. Harpreet Kaur (HOD of Applied Science Department).They congratulations to us to get admission in college and give us very simple but effective speech.Through her speech I feel like I am the member of gne college already.
 * Then,our principal sir(Dr.Sehijpal singh) motivates us through his speech and he also  tells us about the Gne college has celebrated his 70th anniversary in this year.I feel vey lucky that i get a chance to be a part of this college when the college is celebrating his 70th Anniversary.
 * Then, Dr. Aashray Girdhar sir and Dr.parminder singh also welcomed us by sharing his views and motivated us to do our best in the future.
-## special guests of the day
-* Er.Ravinder Garg (Chief Engineer, Municipal Corporation, Ludhiana).
-Er. Rakesh Kumar – ADC Ludhiana He was also GNDEC Alumnus, Batch 1991.He shared their college experiences and gave us tips for achieving success in the future.
+## Special guests of the day
+* Er.Ravinder Garg (Chief Engineer, Municipal Corporation, Ludhiana). He congrats us and give us best wishes for future.
+* Er. Rakesh Kumar – ADC Ludhiana He was also GNDEC Alumnus, Batch 1991.He shared their college experiences and gave us tips for achieving success in the future.
 * Also , In the induction program a loan officer is there and he  also gave a speech about the student loan scheme.He explained how students can get a loan with interest and return it after their graduation is completed.
 * After this, the program ended for the day. Then, the teachers of the Computer Science department showed us the classrooms and labs of the department. Mrs. Kiran Joyti Ma'am (HOD of the CSE department) gave us brief information about programming.
 * This is how my Day 1 of the Induction went.
