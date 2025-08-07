@@ -83,5 +83,10 @@ Later, we had a lecture on Universal Human Values by Dr. Priya Darshni Ma’am. 
 In the end, the Causmic Club of our college was introduced. They told us about the events they organize, their purpose, and who sponsors them. It was exciting to know about student clubs and upcoming opportunities.
 
 Overall, it was an informative and interesting day.
-
+## Day 5 
+### Campus explore 
+* On Day 5, our ID cards were being made, and since the process was going on according to the alphabetical series, our turn came a bit late. During this waiting time, our seniors encouraged us to explore the campus. So, we decided to utilize the time by exploring different parts of GNE Ludhiana. We visited the Gurudwara Sahib situated inside the college, which gave us a peaceful and spiritual feeling. After that, we saw the college dispensary, post office, and various blocks of different departments. We also explored the playgrounds, the sports complex, and some sitting areas where students usually relax during breaks. The environment was very welcoming, and it gave us a better understanding of the campus layout. It was quite a good experience overall, and it helped us feel more comfortable and excited about our upcoming journey at the college.
+## Reflection 
+* As a first-year student, Day 5 was quite memorable for me. Even though we were waiting for our ID cards due to the alphabetical process, our seniors made sure our time didn't go to waste. Exploring the GNE campus gave me a sense of excitement and belonging. Visiting the Gurudwara Sahib brought peace to the mind, and seeing facilities like the dispensary, post office, and sports complex showed how well-equipped the college is for student needs. It was also a great chance to interact with other freshers and seniors. This small campus tour made me feel more confident and comfortable in this new environment, and I’m really looking forward to the experiences ahead.
+* 
 
