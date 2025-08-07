@@ -33,10 +33,10 @@
 * After the proficiency tests, there was a one-hour break. Following the break, all the students of IT and CSE gathered in the auditorium.
 ### Scholarship program 
 * A lecture was conducted on a scholarship program provided by Buddy4Study, named the Satya Scholarship Program 2025. The representatives of this scholarship program gave us a brief overview and assured us that 50 students from our college would be selected for the scholarship. This program is really helpful for those who are unable to pay their fees.
-## Food:A Pivotal role 
+### Food:A Pivotal role 
 * Then there was an expert lecture by Dr. Arashdeep Singh on "Food: A Pivotal Role in Students' Overall Wellness."
 He highlighted how a balanced and nutritious diet not only supports physical health but also enhances mental focus, emotional stability, and academic performance. The session emphasized the importance of including fresh fruits, vegetables, whole grains, and adequate hydration in daily meals. Sir also encouraged students to avoid junk food and adopt mindful eating habits to maintain long-term wellness.
-## GitHub 
+### GitHub 
 * After the above lecture, our seniors introduced us about the GitHub app. With their guidance, we created our GitHub accounts and made our first repository.
  They also explained that GitHub is very useful for students like us, especially in coding and teamwork. It helps us save our code safely, track changes, and work together on projects. It’s also good for building our profile, which can help us later in internships or placements. I really found it interesting because it was my first time using such a platform or coding app.
  ## Reflections 
@@ -45,6 +45,7 @@ He highlighted how a balanced and nutritious diet not only supports physical hea
 * I’m really thankful to the college, teachers, and seniors for putting so much effort into making us feel comfortable and helping us learn from the very beginning. I feel proud to be a part of this college, and I’m looking forward to the upcoming days of the induction program with great excitement.
 ![Image Alt](IMG_20250807_181127.jpg)
 ## Day 3 
+## Lecture by Dr.Jaswinder Singh Sir
 * Day 3 of our induction program began with a very interesting and inspiring expert lecture by Dr. Jaswinder Singh sir, who is the retired incharge of IAPT (Indian Association of Physics Teachers). He delivered a unique session that beautifully connected Physics, Mathematics, and spiritual values. As a first-year student, I found this lecture very engaging and full of learning.
   Sir explained various concepts of physics and maths through simple and fun tricks and experiments which made learning more enjoyable and easier to understand. It was not just about formulas or theories – he showed us how these subjects are actually connected to our daily lives. The best part was how he also connected the teachings of Gurbani with scientific knowledge, which gave us a new perspective on life, values, and learning.
   Dr. Jaswinder Singh’s way of teaching was very motivating. He encouraged us to think logically, stay curious, and always look for answers. His energy and passion made the lecture more enjoyable. I truly liked and enjoyed his session.
@@ -55,6 +56,6 @@ He highlighted how a balanced and nutritious diet not only supports physical hea
 * She also told us about the importance of right understanding in life and how it is related to physical facilities. She explained that if we develop the right understanding, then only we can manage our relationships and physical needs properly. Physical facilities alone are not enough for a happy life. If someone has all the physical comforts but lacks good relationships, they still can't stay truly happy.
 * She also explained the difference between happiness and excitement. Happiness is something that stays with us for a long time – it is stable and continuous. On the other hand, excitement is temporary – it lasts for a few moments and then fades away.
 ## Assignment 
-* She also gave us assignment given below-
+* She also gave us assignment 
 ## Reflection 
 * Overall, it was a day full of motivation, learning, and self-reflection. The sessions not only boosted our academic thinking but also helped us understand the deep connection between knowledge and human values. As a fresher, it was a new and eye-opening experience to see how subjects like Physics and Mathematics can be taught with such passion and meaning. It also made me realize how important it is to build strong moral values along with technical skills. These teachings will definitely help us become more responsible, confident, and balanced individuals as we begin our journey in college life. I feel grateful to be a part of this induction program.
