@@ -88,5 +88,30 @@ Overall, it was an informative and interesting day.
 * On Day 5, our ID cards were being made, and since the process was going on according to the alphabetical series, our turn came a bit late. During this waiting time, our seniors encouraged us to explore the campus. So, we decided to utilize the time by exploring different parts of GNE Ludhiana. We visited the Gurudwara Sahib situated inside the college, which gave us a peaceful and spiritual feeling. After that, we saw the college dispensary, post office, and various blocks of different departments. We also explored the playgrounds, the sports complex, and some sitting areas where students usually relax during breaks. The environment was very welcoming, and it gave us a better understanding of the campus layout. It was quite a good experience overall, and it helped us feel more comfortable and excited about our upcoming journey at the college.
 ## Reflection 
 * As a first-year student, Day 5 was quite memorable for me. Even though we were waiting for our ID cards due to the alphabetical process, our seniors made sure our time didn't go to waste. Exploring the GNE campus gave me a sense of excitement and belonging. Visiting the Gurudwara Sahib brought peace to the mind, and seeing facilities like the dispensary, post office, and sports complex showed how well-equipped the college is for student needs. It was also a great chance to interact with other freshers and seniors. This small campus tour made me feel more confident and comfortable in this new environment, and I’m really looking forward to the experiences ahead.
-* 
+## Day 6
+### Chemistry lecture 
+* Day 6 started with a Chemistry lecture conducted by Karan Bhalla Sir.
+At the beginning of the session, sir interacted with us and took our introduction. During the introduction, he also asked about our future goals. It was a good way to motivate us and understand our interests.
+* After the interaction, he gave us important information about the upcoming Mid-Semester Tests (MSTs) — including how they will be conducted, syllabus coverage, and preparation tips.
+* Then he introduced the Chemistry syllabus and started the topic of Water Chemistry. He explained how impurities are detected in water and discussed methods of purification like the lime soda process, zeolite process, and ion exchange method. He also talked about the presence of heavy metals in water and how they can be harmful.
+* Overall, the session was very informative.
+### English lecture 
+* Then there was an English lecture by Prof. Nisha Mam.
+* Mam was very experienced and confident. She gave us an interesting activity in which we had to introduce ourselves, including our strengths, weaknesses, and achievements. It was a great way to boost our confidence and improve our speaking skills.
+* Unfortunately, my turn didn’t come, but I still learned a lot by listening to others. Mam also told us that the focus of this subject was the development of communication skills, which are very important for our future.
+### Auditorium sessions 
+* After the break, there was a lecture by S. Gurcharan Singh Grewal, Secretary of SGPC in auditorium.
+* His way of speaking was very simple and easy to understand. He shared information about the history of GNE College and also introduced himself. He told us about the achievements of the college and how it has built a strong reputation over the years.
+* He also mentioned that GNE College is well-known even in foreign countries because many of its students are working abroad and making the institution proud. His speech was inspiring and gave us a sense of pride for being part of such a reputed institution.
+### CML club and NPTEl exams
+* Then we had a lecture by Dr. Lakhvir Singh Khanna, Incharge of the Centre for Multifaceted Learning (CML).
+* He introduced us to his club, the Centre of Multifaceted Learning, and explained how it helps students develop multiple skills beyond academics. The club focuses on overall personality development and provides opportunities for students to grow in different fields.
+* He also introduced us to the NPTEL (National Programme on Technology Enhanced Learning) platform and explained how it can help us in the future. Through this platform, students can learn from IIT professors, earn certificates, and improve their technical as well as soft skills. It was a very informative session that encouraged us to take part in such learning opportunities.
+## Reflection – Day 6
+* Day 6 was full of learning and new experiences. The day started with an engaging Chemistry lecture by Karan Bhalla Sir, where we not only learned about water chemistry but also understood the importance of purification methods like lime soda and zeolite processes. Sir’s explanation was clear and easy to understand.
+* Then, in the English lecture by Prof. Nisha Mam, we were encouraged to introduce ourselves and speak about our strengths, weaknesses, and achievements. Even though my turn didn’t come, I observed and learned a lot from others. It helped me realise how important communication skills are, and that this subject is not just about grammar but about real self-development.
+* After the break, S. Gurcharan Singh Grewal Sir, Secretary of SGPC, gave a motivational speech. He told us about the history and reputation of GNE College, especially how it is respected even in foreign countries. His words made me feel proud to be part of such a prestigious institution.
+* The day ended with an insightful lecture by Dr. Lakhvir Singh Khanna Sir, who introduced us to the Centre for Multifaceted Learning and the NPTEL platform. I learned how important it is to build skills outside of academics and how these platforms can support our personal and professional growth.
+
+* Overall, Day 6 was very informative and inspiring. It gave me motivation to improve myself in both academic and non-academic areas.
 
