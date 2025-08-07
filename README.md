@@ -10,9 +10,9 @@
 ## Day 1
 ## Gurudwara Sahib 
 * The day began with listening to Japji Sahib(path) and Hymns(shabad kirtan) such as satguru hoye dhyal  which means ,"When the guru is merciful ,you will know no pain ,you will never grieve and your desires are fulfilled".These and many other hymns were recited at college gurudwara sahib.Then after ardaas , Pathi sahib shared some very inspiring words and gave us his blessings.
+![Image Alt ](IMG_20250807_170138.jpg)
 ## Auditorium 
 * After that we all students went to the college auditorium.There,the host of the event welcome us and introduced the college's legacy through a detailed presentation.Also, in the presentation,there was a two videos of college pass-outs.One of them was Sangam Arora and other was Arshdeep singh. They shared their experiences.More specifically, they explained how dedication and involvement beyond the classroom shaped their successful journey.
-![Image Alt ](IMG_20250807_170138.jpg)
 * Then the host invited the first speaker, Dr. Harpreet Kaur (HOD of Applied Science Department).They congratulations to us to get admission in college and give us very simple but effective speech.Through her speech I feel like I am the member of gne college already.
 * Then,our principal sir(Dr.Sehijpal singh) motivates us through his speech and he also  tells us about the Gne college has celebrated his 70th anniversary in this year.I feel vey lucky that i get a chance to be a part of this college when the college is celebrating his 70th Anniversary.
 * Then, Dr. Aashray Girdhar sir and Dr.parminder singh also welcomed us by sharing his views and motivated us to do our best in the future.
