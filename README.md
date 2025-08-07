@@ -23,6 +23,7 @@
 ![Image Alt]( IMG_20250807_173505.jpg)
 ## Visit Department of CSE
 * After this, the program ended for the day. Then, the teachers of the Computer Science department showed us the classrooms and labs of the department. Mrs. Kiran Joyti Ma'am (HOD of the CSE department) gave us brief information about programming.
+![Image Alt](IMG_20250807_170242.jpg)
 * This is how my Day 1 of the Induction went.
 ## Day 2 
 * The Day 2 of the induction began with a Proficiency English Test. The test included questions based on topics we had already studied in our previous school classes. After the English test, there was also a Mathematics Proficiency Test, which also covered concepts we had learned earlier. However, some questions were quite difficult, but I tried my best to find the answers.
