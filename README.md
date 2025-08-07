@@ -26,10 +26,16 @@
 ![Image Alt](IMG_20250807_170242.jpg)
 * This is how my Day 1 of the Induction went.
 ## Day 2 
+## Proficiency test 
 * The Day 2 of the induction began with a Proficiency English Test. The test included questions based on topics we had already studied in our previous school classes. After the English test, there was also a Mathematics Proficiency Test, which also covered concepts we had learned earlier. However, some questions were quite difficult, but I tried my best to find the answers.
-* After the proficiency tests, there was a one-hour break. Following the break, all the students of IT and CSE gathered in the auditorium. A lecture was conducted on a scholarship program provided by Buddy4Study, named the Satya Scholarship Program 2025. The representatives of this scholarship program gave us a brief overview and assured us that 50 students from our college would be selected for the scholarship. This program is really helpful for those who are unable to pay their fees. 
+## Auditorium 
+* After the proficiency tests, there was a one-hour break. Following the break, all the students of IT and CSE gathered in the auditorium.
+## Scholarship program 
+* A lecture was conducted on a scholarship program provided by Buddy4Study, named the Satya Scholarship Program 2025. The representatives of this scholarship program gave us a brief overview and assured us that 50 students from our college would be selected for the scholarship. This program is really helpful for those who are unable to pay their fees.
+## Food:A Pivotal role 
 * Then there was an expert lecture by Dr. Arashdeep Singh on "Food: A Pivotal Role in Students' Overall Wellness."
-He highlighted how a balanced and nutritious diet not only supports physical health but also enhances mental focus, emotional stability, and academic performance. The session emphasized the importance of including fresh fruits, vegetables, whole grains, and adequate hydration in daily meals. Sir also encouraged students to avoid junk food and adopt mindful eating habits to maintain long-term wellness. 
+He highlighted how a balanced and nutritious diet not only supports physical health but also enhances mental focus, emotional stability, and academic performance. The session emphasized the importance of including fresh fruits, vegetables, whole grains, and adequate hydration in daily meals. Sir also encouraged students to avoid junk food and adopt mindful eating habits to maintain long-term wellness.
+## GitHub 
 * After the above lecture, our seniors introduced us about the GitHub app. With their guidance, we created our GitHub accounts and made our first repository.
  They also explained that GitHub is very useful for students like us, especially in coding and teamwork. It helps us save our code safely, track changes, and work together on projects. It’s also good for building our profile, which can help us later in internships or placements. I really found it interesting because it was my first time using such a platform or coding app.
  ## Reflections 
@@ -43,6 +49,7 @@ He highlighted how a balanced and nutritious diet not only supports physical hea
   Dr. Jaswinder Singh’s way of teaching was very motivating. He encouraged us to think logically, stay curious, and always look for answers. His energy and passion made the lecture more enjoyable. I truly liked and enjoyed his session.
   
 * The Chief Guest, S. Gurcharan Singh Grewal, Secretary of SGPC, also motivated us with his inspiring speech. He appreciated Dr. Jaswinder Singh for his valuable contribution in spreading scientific knowledge through engaging experiments and linking it with spiritual values. He also thanked him for fulfilling his responsibilities so well.
+## Universal human values 
 * After that, we attended an expert lecture by Dr. Priya Darshni Mam on Universal Human Values. She beautifully explained the importance of values in our personal and professional lives. Through her interactive session, we learned how values like respect, honesty, compassion, and responsibility help us become better human beings.
 * She also told us about the importance of right understanding in life and how it is related to physical facilities. She explained that if we develop the right understanding, then only we can manage our relationships and physical needs properly. Physical facilities alone are not enough for a happy life. If someone has all the physical comforts but lacks good relationships, they still can't stay truly happy.
 * She also explained the difference between happiness and excitement. Happiness is something that stays with us for a long time – it is stable and continuous. On the other hand, excitement is temporary – it lasts for a few moments and then fades away.
