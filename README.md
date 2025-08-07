@@ -28,6 +28,7 @@
 ## Day 2 
 ## Proficiency test 
 * The Day 2 of the induction began with a Proficiency English Test. The test included questions based on topics we had already studied in our previous school classes. After the English test, there was also a Mathematics Proficiency Test, which also covered concepts we had learned earlier. However, some questions were quite difficult, but I tried my best to find the answers.
+![Image Alt](IMG_20250807_180832.jpg)
 ## Auditorium 
 * After the proficiency tests, there was a one-hour break. Following the break, all the students of IT and CSE gathered in the auditorium.
 ## Scholarship program 
