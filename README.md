@@ -31,7 +31,7 @@
 ![Image Alt](IMG_20250807_180832.jpg)
 ## Auditorium 
 * After the proficiency tests, there was a one-hour break. Following the break, all the students of IT and CSE gathered in the auditorium.
-## Scholarship program 
+### Scholarship program 
 * A lecture was conducted on a scholarship program provided by Buddy4Study, named the Satya Scholarship Program 2025. The representatives of this scholarship program gave us a brief overview and assured us that 50 students from our college would be selected for the scholarship. This program is really helpful for those who are unable to pay their fees.
 ## Food:A Pivotal role 
 * Then there was an expert lecture by Dr. Arashdeep Singh on "Food: A Pivotal Role in Students' Overall Wellness."
