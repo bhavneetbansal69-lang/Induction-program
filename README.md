@@ -114,4 +114,19 @@ At the beginning of the session, sir interacted with us and took our introductio
 * The day ended with an insightful lecture by Dr. Lakhvir Singh Khanna Sir, who introduced us to the Centre for Multifaceted Learning and the NPTEL platform. I learned how important it is to build skills outside of academics and how these platforms can support our personal and professional growth.
 
 * Overall, Day 6 was very informative and inspiring. It gave me motivation to improve myself in both academic and non-academic areas.
+## Day 7 
+* Day 7 began with an insightful lecture by Dr. Parminder Singh, the Dean of Student Welfare.
+He warmly welcomed us and gave a detailed introduction to the college's vibrant student life. He talked about the various student clubs that operate within the campus and the wide range of activities and events organized by them every year. From cultural festivals to technical competitions and sports events, he encouraged us to actively participate and make the most of our college experience.
+* Following that, we attended a lecture by Dr. Amit Kamra, the in-charge of the Digital Marketing Club (DMC).
+He introduced us to the club, its objectives, and the core team members who actively contribute to its success. Dr. Kamra also showcased some of the impressive work done by his students as part of the club's activities. He mentioned that the club focuses on nurturing students' talents in the field of digital marketing by giving them hands-on experience. He also explained how interested students can join the club and become part of its various projects and initiatives. Additionally, he informed us that all the official social media accounts of GNDEC — including Facebook, Instagram, YouTube, and others — are managed by him and his team.
+* After that, Dr. Randhir Singh conducted a lecture on the rules and procedures related to examinations.
+He explained the importance of attendance and how it is linked to eligibility for exams, including Mid-Semester Tests (MSTs) and final exams. He also introduced us to the academic protocol and the Guru Portal, a dedicated platform where students can access important information related to attendance, exam schedules, results, and fee payments. Through this portal, students can stay updated with all academic and administrative activities throughout the semester.
+* After the initial lectures, we had a short break, followed by our regular academic sessions.
+The first class was BEEE (Basic Electrical and Electronics Engineering), in which the teacher discussed the syllabus with us and gave a brief overview of the first chapter on DC Circuits and basic electrical components.
+
+Later, we attended a P2P (Peer-to-Peer) session, conducted by our seniors Harjot Singh and Yuvraj Singh. They began by interacting with us and getting to know the new students through short introductions. They then introduced the basic concept of the P2P program and explained how it is designed to help first-year students adjust better to college life, academics, and overall development with the guidance of their seniors.
+## Reflection:
+Day 7 was both informative and engaging. We got to learn about various college clubs, academic systems, and even interacted with our seniors. It helped us understand the opportunities and support available at the college, making us feel more connected and confident.
+
+
 
