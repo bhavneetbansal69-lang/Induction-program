@@ -123,7 +123,7 @@ He introduced us to the club, its objectives, and the core team members who acti
 He explained the importance of attendance and how it is linked to eligibility for exams, including Mid-Semester Tests (MSTs) and final exams. He also introduced us to the academic portal and the Guru Portal, a dedicated platform where students can access important information related to attendance, exam schedules, results, and fee payments. Through this portal, students can stay updated with all academic and administrative activities throughout the semester.
 * After the initial lectures, we had a short break, followed by our regular academic sessions.
 The first class was BEEE (Basic Electrical and Electronics Engineering), in which the teacher discussed the syllabus with us and gave a brief overview of the first chapter on DC Circuits and basic electrical components.
-* Later, we attended a P2P (Peer-to-Peer) session, conducted by our seniors Harjot Singh sir and Yuvraj Singh sir. They began by interacting with us and getting to know the new students through short introductions. They then introduced the basic concept of the P2P program and explained it very well to us .
+* Later, we attended a P2P (Peer-to-Peer) session, conducted by our seniors Harjot Singh sir and Yuvraj Singh sir. They began by interacting with us and getting to know the new students through short introductions. They then introduced the basic concept of the Programming program and explained it very well to us .
 ## Reflection:
 Day 7 was both informative and engaging. We got to learn about various college clubs, academic systems, and even interacted with our seniors. It helped us understand the opportunities and support available at the college, making us feel more connected and confident.
 
