@@ -115,17 +115,22 @@ At the beginning of the session, sir interacted with us and took our introductio
 
 * Overall, Day 6 was very informative and inspiring. It gave me motivation to improve myself in both academic and non-academic areas.
 ## Day 7 
+### Information regarding college and different college clubs 
 * Day 7 began with an insightful lecture by Dr. Parminder Singh sir, the Dean of Student Welfare.
 He warmly welcomed us and gave a detailed introduction to the college's vibrant student life. He talked about the various student clubs that operate within the campus and the wide range of activities and events organized by college every year. From cultural festivals to technical competitions and sports events, he encouraged us to actively participate in activities.
+### Digital marketing club (DMC)
 * Following that, we attended a lecture by Dr. Amit Kamra sir , the in-charge of the Digital Marketing Club (DMC).
 He introduced us to the club, its objectives, and the core team members who actively contribute to its success. Dr. Kamra sir also showcased some of the impressive work done by his students as part of the club's activities. He mentioned that the club focuses on nurturing students' talents in the field of digital marketing by giving them hands-on experience. He also explained how interested students can join the club and become part of its various projects and initiatives. Additionally, he informed us that all the official social media accounts of GNDEC — including Facebook, Instagram, YouTube, and others — are managed by him and his team.
+### Information related to examinations 
 * After that, Dr. Randhir Singh sir conducted a lecture on the rules and procedures related to examinations.
 He explained the importance of attendance and how it is linked to eligibility for exams, including Mid-Semester Tests (MSTs) and final exams. He also introduced us to the academic portal and the Guru Portal, a dedicated platform where students can access important information related to attendance, exam schedules, results, and fee payments. Through this portal, students can stay updated with all academic and administrative activities throughout the semester.
+### Lectures 
 * After the initial lectures, we had a short break, followed by our regular academic sessions.
 The first class was BEEE (Basic Electrical and Electronics Engineering), in which the teacher discussed the syllabus with us and gave a brief overview of the first chapter on DC Circuits and basic electrical components.
 * Later, we attended a P2P (Peer-to-Peer) session, conducted by our seniors Harjot Singh sir and Yuvraj Singh sir. They began by interacting with us and getting to know the new students through short introductions. They then introduced the basic concept of the Programming program and explained it very well to us .
 ## Reflection:
-Day 7 was both informative and engaging. We got to learn about various college clubs, academic systems, and even interacted with our seniors. It helped us understand the opportunities and support available at the college, making us feel more connected and confident.
+Day 7 was a highly informative and engaging day that gave us valuable insights into both academic and extracurricular aspects of college life. Through the lectures, we got to know about different clubs such as the Digital Marketing Club and their role in enhancing students’ skills and talents beyond the classroom. Learning about the examination system, attendance requirements, and the use of the Guru Portal made us aware of important rules and resources that will guide us throughout our academic journey. The BEEE class gave us a clear start to our syllabus, beginning with DC circuits, which sparked our interest in the subject. The P2P session with our seniors Harjot Singh sir and Yuvraj Singh sir was not only interactive but also inspiring, as they shared their experiences and encouraged us to actively participate in college activities. Overall, the day helped us explore new opportunities, understand our responsibilities, and feel more connected to the college environment. It was a perfect blend of learning, interaction, and motivation.
+
 
 
 
