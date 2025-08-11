@@ -117,6 +117,7 @@ At the beginning of the session, sir interacted with us and took our introductio
 * The day ended with an insightful lecture by Dr. Lakhvir Singh Khanna Sir, who introduced us to the Centre for Multifaceted Learning and the NPTEL platform. I learned how important it is to build skills outside of academics and how these platforms can support our personal and professional growth.
 
 * Overall, Day 6 was very informative and inspiring. It gave me motivation to improve myself in both academic and non-academic areas.
+![image Alt](
 ## Day 7 
 ### Information regarding college and different college clubs 
 * Day 7 began with an insightful lecture by Dr. Parminder Singh sir, the Dean of Student Welfare.
@@ -133,6 +134,7 @@ The first class was BEEE (Basic Electrical and Electronics Engineering), in whic
 * Later, we attended a P2P (Peer-to-Peer) session, conducted by our seniors Harjot Singh sir and Yuvraj Singh sir. They began by interacting with us and getting to know the new students through short introductions. They then introduced the basic concept of the Programming program and explained it very well to us .
 ## Reflection:
 Day 7 was a highly informative and engaging day that gave us valuable insights into both academic and extracurricular aspects of college life. Through the lectures, we got to know about different clubs such as the Digital Marketing Club and their role in enhancing students’ skills and talents beyond the classroom. Learning about the examination system, attendance requirements, and the use of the Guru Portal made us aware of important rules and resources that will guide us throughout our academic journey. The BEEE class gave us a clear start to our syllabus, beginning with DC circuits, which sparked our interest in the subject. The P2P session with our seniors Harjot Singh sir and Yuvraj Singh sir was not only interactive but also inspiring, as they shared their experiences and encouraged us to actively participate in college activities. Overall, the day helped us explore new opportunities, understand our responsibilities, and feel more connected to the college environment. It was a perfect blend of learning, interaction, and motivation.
+![image alt](IMG_20250811_171010.jpg)
 ## Day 8
 ### Millets-The super power 
 * Day 8 started with an extremely informative and engaging lecture by Mrs. Shaffy Makkar mam on the topic "Millets – The Super Power". She began by telling us about the history of millets, explaining how they have been a part of traditional diets for thousands of years but are now regaining popularity due to their amazing health benefits. She explained that millets are packed with nutrients like protein, fiber, vitamins, and minerals, making them a complete food for overall wellness. She also told us how they are naturally gluten-free, which makes them suitable for people with gluten intolerance.
