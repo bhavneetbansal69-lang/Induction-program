@@ -117,7 +117,7 @@ At the beginning of the session, sir interacted with us and took our introductio
 * The day ended with an insightful lecture by Dr. Lakhvir Singh Khanna Sir, who introduced us to the Centre for Multifaceted Learning and the NPTEL platform. I learned how important it is to build skills outside of academics and how these platforms can support our personal and professional growth.
 
 * Overall, Day 6 was very informative and inspiring. It gave me motivation to improve myself in both academic and non-academic areas.
-![image Alt](IMG_20250811_171010.jpg)
+![image Alt](IMG_20250811_171039.jpg)
 ## Day 7 
 ### Information regarding college and different college clubs 
 * Day 7 began with an insightful lecture by Dr. Parminder Singh sir, the Dean of Student Welfare.
